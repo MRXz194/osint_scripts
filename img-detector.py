@@ -48,7 +48,7 @@ def create_map(latitude, longitude, image_path):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python image_location_detector.py <image_path>")
+        print("Usage: python img_detector.py <image_path>")
         return
 
     image_path = sys.argv[1]
