@@ -83,4 +83,4 @@ if __name__ == "__main__":
 #Pillow==10.1.0
 #exif==1.6.0
 #folium==0.15.0
-# run script : python img-detector.py <image_path>
+# run script : python img-detector.py <image_path> :3
